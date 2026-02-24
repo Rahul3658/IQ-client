@@ -1,0 +1,7 @@
+window.__env = {
+  SG_KEY: "$SG_KEY",
+  GOOGLE_API: "$GOOGLE_API",
+  TRUDESK_KEY: "$TRUDESK_KEY",
+  SERVER_URL: "$SERVER_URL",
+  SOCKET_URL: "$SOCKET_URL"
+};
